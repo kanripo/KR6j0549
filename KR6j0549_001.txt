@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:35.359721
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:26
 #+TITLE: 瑜伽集要救阿難陀羅尼焰口軌儀經
 #+PROPERTY: CBETA_ID T21n1318
 #+PROPERTY: ID KR6j0549
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1318
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0549_T_000-0468c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0549_T_001-0468c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1318¶
-
- 瑜伽集要救阿難陀羅尼焰口軌¶
+No. 1318¶
+瑜伽集要救阿難陀羅尼焰口軌¶
 儀經¶
 ¶
 唐三藏沙門不空奉　詔譯¶
