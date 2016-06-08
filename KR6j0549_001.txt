@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:35.359721
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:26
 #+TITLE: 瑜伽集要救阿難陀羅尼焰口軌儀經
 #+PROPERTY: CBETA_ID T21n1318
 #+PROPERTY: ID KR6j0549
